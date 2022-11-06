@@ -5,7 +5,7 @@ body {
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
     text-rendering: optimizeLegibility;
-    border-top: 6px #AD91FF !important;
+    border-top: 6px #e48a92 !important;
     font-size: 16px;
 }
 
@@ -17,16 +17,16 @@ body {
  }
  .nav-link:hover {
      background: transparent !important;
-     color: #AD91FF !important;
+     color: #e48a92 !important;
      font-weight: bold !important;
  }
 
  .login-btn {
-     border: 2px solid #AD91FF !important;
+     border: 2px solid #e48a92 !important;
      font-size: 10px !important;
  }
  .login-btn:hover {
-     background: #AD91FF !important;
+     background: #e48a92 !important;
  }
 .navbar {
     box-shadow: none !important
@@ -48,7 +48,7 @@ body {
 }
 
 .btn-primary {
-    background-color: #AD91FF!important
+    background-color: #e48a92!important
 }
 .btn-secondary {
     background-color: #2C2F33 !important
@@ -142,7 +142,7 @@ body {
 .card.statistic {
     background: transparent !important;
     box-shadow: none !important;
-    color: #AD91FF !important;
+    color: #e48a92 !important;
 }
 
 
@@ -164,7 +164,7 @@ body {
 .features .card {
     background: #1D1E28;
     border-radius: 22px !important;
-    border: 4px solid #AD91FF;
+    border: 4px solid #e48a92;
 }
 .features .card-text {
 color: rgba(255, 255, 255, 0.46) !important
@@ -195,7 +195,7 @@ color: rgba(255, 255, 255, 0.46) !important
 }
 
 .footer .nouridio a {
-    color: #AD91FF !important;
+    color: #e48a92 !important;
     text-decoration: none !important;
 }
 
