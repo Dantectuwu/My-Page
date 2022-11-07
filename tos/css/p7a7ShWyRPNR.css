@@ -9,10 +9,6 @@
 .lightning.shade{
   position: absolute;
   width: 300vh;
-  top: 50%;
-  left: 25%;
- 
-    animation: unset;
-    z-index: -1;
-    box-shadow: 0px 0px 5vh 10vh #5f0094;
+  z-index: -1;
+  box-shadow: 0px 0px 5vh 10vh #5f0094;
 }
