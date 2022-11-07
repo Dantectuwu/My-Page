@@ -7,8 +7,7 @@
 /*# sourceMappingURL=bootstrap.min.css.map */
 
 .lightning.shade{
-  position: absolute;
-  width: 300vh;
+  width: 100vh;
   z-index: -1;
   box-shadow: 0px 0px 5vh 10vh #5f0094;
 }
