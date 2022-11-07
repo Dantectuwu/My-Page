@@ -143,6 +143,7 @@ body {
     background: transparent !important;
     box-shadow: none !important;
     color: #e48a92 !important;
+    box-shadow: 0px 0px 8vh -3vh #e48a92;
 }
 
 
